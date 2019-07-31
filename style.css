@@ -8,8 +8,6 @@ h2 {
 h3 {
   color: green;
 }
-h1{
-  <p>
-    color: green;
-  </p>
+.L, .H{
+  color: green;
 }
