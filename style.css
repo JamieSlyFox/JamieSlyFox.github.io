@@ -1,6 +1,7 @@
 p {
   color: black;
   font-weight: bold;
+  family-font: helvetica;
 }
 h2 {
   color: green;
@@ -10,4 +11,7 @@ h3 {
 }
 .L, .H{
   color: green;
+}
+ul{
+  font-family: helvetica;
 }
