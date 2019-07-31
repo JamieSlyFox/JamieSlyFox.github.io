@@ -15,3 +15,8 @@ h3 {
 ul{
   font-family: helvetica;
 }
+body {
+  background: linear-gradient(-45deg, #35577D, #141E30);
+  margin: 0;
+  padding: 0;
+}
